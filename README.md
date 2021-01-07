@@ -12,5 +12,8 @@
 2020/12/31
 -> 2주차 : [재귀](https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%EC%9E%AC%EA%B7%80.md) + [순차리스트](https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%EC%B6%94%EC%83%81%EC%9E%90%EB%A3%8C%ED%98%95%20%2B%20%EC%88%9C%EC%B0%A8%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md) 
 
-2020/1/6
+2020/1/7
 -> 3주차 : [연결리스트](https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
+
+2020/1/21
+-> 4주차 : [스택]()
