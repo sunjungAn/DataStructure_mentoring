@@ -15,5 +15,5 @@
 2020/1/7
 -> 3주차 : [연결리스트](https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 
-2020/1/21
+2020/1/14
 -> 4주차 : [스택]()
