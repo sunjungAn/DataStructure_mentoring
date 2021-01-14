@@ -2,7 +2,9 @@
 2020_동계방학 자료구조 멘토링 2020/12/24~2020/2/28
 
 **참고 도서**
-<img scr =https://user-images.githubusercontent.com/55094745/104547958-1c3e3a00-5673-11eb-8c61-7141485948ca.png width = "30%"></img>
+
+<img src ="https://user-images.githubusercontent.com/55094745/104547958-1c3e3a00-5673-11eb-8c61-7141485948ca.png" width = "10%"></img>
+<img src ="https://user-images.githubusercontent.com/55094745/104548252-c4540300-5673-11eb-9350-a857ea20a175.png" width = "10%"></img>
 
 + 윤성우의 열혈 자료구조
 + c언어로 쉽게 풀어쓴 자료구조
