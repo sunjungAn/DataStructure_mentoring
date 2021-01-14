@@ -14,6 +14,8 @@
 
 <img src = "https://user-images.githubusercontent.com/55094745/104548376-0715db00-5674-11eb-9d5d-97b59a594709.png" width = "50%"></img>
 
+## reference
+
 2020/12/24
 -> 1주차 : [알고리즘 성능 분석](https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D.md)
 
