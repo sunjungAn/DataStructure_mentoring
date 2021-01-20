@@ -27,3 +27,6 @@
 
 2020/1/14
 -> 4주차 : [스택](https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%EC%8A%A4%ED%83%9D.md)
+
+2002/1/20
+-> 5주차 : [큐]()
