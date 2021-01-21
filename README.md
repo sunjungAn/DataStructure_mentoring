@@ -29,4 +29,4 @@
 -> 4주차 : [스택](https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%EC%8A%A4%ED%83%9D.md)
 
 2002/1/20
--> 5주차 : [큐]()
+-> 5주차 : [큐](https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%ED%81%90&%EB%8D%B1.md)
