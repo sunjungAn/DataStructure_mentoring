@@ -30,3 +30,6 @@
 
 2002/1/20
 -> 5주차 : [큐](https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%ED%81%90&%EB%8D%B1.md)
+
+2020/1/27
+-> 6주차 : [트리]()
