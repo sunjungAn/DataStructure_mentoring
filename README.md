@@ -32,4 +32,4 @@
 -> 5주차 : [큐](https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%ED%81%90&%EB%8D%B1.md)
 
 2020/1/27
--> 6주차 : [트리](https://github.com/sunjungAn/DataStructure_mentoring/tree/master)
+-> 6주차 : [트리](https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%ED%8A%B8%EB%A6%AC.md)
