@@ -33,3 +33,12 @@
 
 2020/1/27
 -> 6주차 : [트리](https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%ED%8A%B8%EB%A6%AC.md)
+
+2021/2/4
+-> 7주차 : [우선순위 큐 & 힙]()
+
+2021/2/11
+-> 8주차 : [정렬]()
+
+2021/2/18
+-> 9주차 : [그래프]()
