@@ -35,7 +35,7 @@
 -> 6주차 : [트리](https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%ED%8A%B8%EB%A6%AC.md)
 
 2021/2/4
--> 7주차 : [우선순위 큐 & 힙]()
+-> 7주차 : [우선순위 큐 & 힙]https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90%20%26%20%ED%9E%99.md()
 
 2021/2/11
 -> 8주차 : [정렬]()
