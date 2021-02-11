@@ -1,5 +1,5 @@
 # DataStructure_mentoring
-2020_동계방학 자료구조 멘토링 2020/12/24~2020/2/28
+자료구조 멘토링 2020/12/24~2020/2/28
 
 ## 참고 도서
 
@@ -38,7 +38,7 @@
 -> 7주차 : [우선순위 큐 & 힙](https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90%20%26%20%ED%9E%99.md)
 
 2021/2/11
--> 8주차 : [정렬]()
+-> 8주차 : [정렬](https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%EC%A0%95%EB%A0%AC.md)
 
 2021/2/18
 -> 9주차 : [그래프]()
