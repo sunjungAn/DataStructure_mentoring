@@ -42,4 +42,4 @@
 >> 부록 : [정렬 비교](https://github.com/sunjungAn/SMU_algorithmstudy_Sevendays/tree/master/sort_compare)
 
 2021/2/18
--> 9주차 : [그래프]()
+-> 9주차 : [그래프](https://github.com/sunjungAn/DataStructure_mentoring/blob/master/%EA%B7%B8%EB%9E%98%ED%94%84.md)
